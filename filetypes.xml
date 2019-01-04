@@ -3,12 +3,14 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="ftpcracker" type="JavaFX" />
+      <mapping pattern="web" type="Native" />
       <mapping pattern="wop" type="Native" />
       <mapping pattern="yoram" type="Native" />
+      <mapping pattern="web server" type="PLAIN_TEXT" />
       <mapping pattern="wow" type="Python" />
-      <mapping pattern="ftpcrack" type="Python" />
-      <mapping pattern="introduction" type="Python" />
       <mapping pattern="host" type="Python" />
+      <mapping pattern="introduction" type="Python" />
+      <mapping pattern="ftpcrack" type="Python" />
     </extensionMap>
   </component>
 </application>
