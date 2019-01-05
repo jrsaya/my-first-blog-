@@ -6,6 +6,7 @@
       <mapping pattern="web" type="Native" />
       <mapping pattern="wop" type="Native" />
       <mapping pattern="yoram" type="Native" />
+      <mapping pattern="basic" type="PLAIN_TEXT" />
       <mapping pattern="web server" type="PLAIN_TEXT" />
       <mapping pattern="wow" type="Python" />
       <mapping pattern="host" type="Python" />
